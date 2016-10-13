@@ -1,0 +1,13 @@
+site_name: skyler tao's blog
+pages:
+- Home: index.md
+- Big Data:
+  - druid: druid/druid_index.md
+  - kafka: kafka/kafka_index.md
+- Java: 
+  - Multi Thread: java/java_multithread_index.md
+  - Network: java/java_network_index.md
+  - JVM: java/jvm_index.md
+- About:
+  - About Me: about/about_me.md
+  - Contact Me: about/contact_me.md
